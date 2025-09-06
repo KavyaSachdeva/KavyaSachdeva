@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kavyasachdeva05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1twuiWIObIeMyofR1BpDhBucyIU8NUucP/view?usp=sharing](https://drive.google.com/file/d/1twuiWIObIeMyofR1BpDhBucyIU8NUucP/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1twuiWIObIeMyofR1BpDhBucyIU8NUucP/view?usp=sharing)
 
 - ⚡ Fun fact **Can talk endlessly about F1 and food!**
 
