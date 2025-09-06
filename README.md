@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">a junior @ UIUC studying CS + MATH and interested in cloud and AI!🤖</h3>
 
+- 🌱 I’m currently learning **about building scalable ai agents ⚙️**
+
 - 👨‍💻 All of my projects are available at [http://www.github.com/KavyaSachdeva](http://www.github.com/KavyaSachdeva)
 
+- 💬 Ask me about **react, AWS, ai agents**
+
 - 📫 How to reach me **kavyasachdeva05@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1twuiWIObIeMyofR1BpDhBucyIU8NUucP/view?usp=sharing](https://drive.google.com/file/d/1twuiWIObIeMyofR1BpDhBucyIU8NUucP/view?usp=sharing)
 
 - ⚡ Fun fact **Can talk endlessly about F1 and food!**
 
